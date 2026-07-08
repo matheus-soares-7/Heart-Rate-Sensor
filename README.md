@@ -9,7 +9,7 @@ O grande diferencial deste projeto é a sua **arquitetura de software**, totalme
 ## 📸 Demonstração do Projeto
 
 <!-- Substitua 'sua_foto.jpg' pelo nome exato do arquivo da foto que você vai subir no GitHub -->
-![Demonstração do Monitor Cardíaco funcionando](foto.bpm.jpg)
+![Demonstração do Monitor Cardíaco funcionando](foto bpm.jpg)
 
 ---
 
